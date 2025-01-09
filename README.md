@@ -18,7 +18,7 @@ Completed an in-depth program covering foundational and advanced cybersecurity c
 <h2>Certificate Showcase:</h2>
 
 <p align="center"> 
-  View Credential: https://coursera.org/verify/profession%20al-cert/LSIKIO1QFT5Q <br/>
+  View Credential: https://coursera.org/verify/professional-cert/LSIKIO1QFT5Q <br/>
 
 <img src="https://i.imgur.com/rpS6su4.png" height="80%" width="80%" alt="jj"/>
 <br/>
